@@ -1,2 +1,2 @@
 # onetel-html
-I have onetel Gym project using HTML,CSS,Bootstrap
+I have onetel project using HTML,CSS,Bootstrap
